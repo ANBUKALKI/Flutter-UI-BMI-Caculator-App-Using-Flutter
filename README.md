@@ -5,3 +5,5 @@ Here contain Three dart file:
 1.Main.dart
 2.Splash Screen.dart
 3.HomePage.dart
+4.Model.dart
+
